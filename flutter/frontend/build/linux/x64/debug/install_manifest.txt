@@ -1,0 +1,12 @@
+/home/amine/Agris/flutter/frontend/build/linux/x64/debug/bundle/frontend
+/home/amine/Agris/flutter/frontend/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/amine/Agris/flutter/frontend/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/amine/Agris/flutter/frontend/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/amine/Agris/flutter/frontend/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/amine/Agris/flutter/frontend/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/amine/Agris/flutter/frontend/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/amine/Agris/flutter/frontend/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/amine/Agris/flutter/frontend/build/linux/x64/debug/bundle/data/flutter_assets/shaders/stretch_effect.frag
+/home/amine/Agris/flutter/frontend/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/amine/Agris/flutter/frontend/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/amine/Agris/flutter/frontend/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
